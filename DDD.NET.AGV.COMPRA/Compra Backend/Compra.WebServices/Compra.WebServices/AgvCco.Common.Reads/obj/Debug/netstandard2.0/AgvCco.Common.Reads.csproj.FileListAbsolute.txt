@@ -1,0 +1,14 @@
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Reads\bin\Debug\netstandard2.0\AgvCco.Common.Reads.deps.json
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Reads\bin\Debug\netstandard2.0\AgvCco.Common.Reads.dll
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Reads\bin\Debug\netstandard2.0\AgvCco.Common.Reads.pdb
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Reads\bin\Debug\netstandard2.0\AgvCco.Common.Models.dll
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Reads\bin\Debug\netstandard2.0\AgvCco.Common.Models.pdb
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Reads\obj\Debug\netstandard2.0\AgvCco.Common.Reads.csprojAssemblyReference.cache
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Reads\obj\Debug\netstandard2.0\AgvCco.Common.Reads.Resources.ReadResources.resources
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Reads\obj\Debug\netstandard2.0\AgvCco.Common.Reads.csproj.GenerateResource.cache
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Reads\obj\Debug\netstandard2.0\AgvCco.Common.Reads.csproj.CoreCompileInputs.cache
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Reads\obj\Debug\netstandard2.0\AgvCco.Common.Reads.AssemblyInfoInputs.cache
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Reads\obj\Debug\netstandard2.0\AgvCco.Common.Reads.AssemblyInfo.cs
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Reads\obj\Debug\netstandard2.0\AgvCco.Common.Reads.csproj.CopyComplete
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Reads\obj\Debug\netstandard2.0\AgvCco.Common.Reads.dll
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Reads\obj\Debug\netstandard2.0\AgvCco.Common.Reads.pdb

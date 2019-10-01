@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<querys>
+  <query id="GET_ALL_PRODUCT" description="" author="benja">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[
+      SELECT [proide] ,[pronom]  ,[propre] , CCOCAT.catcan, CCOCAT.catref  ,[profcr]
+      FROM [dbo].[CCOPRO] 
+      INNER JOIN CCOCAT ON CCOPRO.proide = CCOCAT.catpro ;]]>
+    </provider>
+  </query>
+
+  <query id="GET_CAR_ADD" description="Obtener datos del carrito antes de grabar" author="benja">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[SELECT CCOCAR.caride, CCOCAR.carpro,  CCOPRO.pronom, CCOCAR.carcan,   CCOPRO.propre, CCOCAR.carfeh FROM CCOCAR 
+                INNER JOIN CCOPRO ON CCOCAR.carpro = CCOPRO.proide
+                WHERE CCOCAR.carest = @carest AND carusu = @carusu ;]]>
+    </provider>
+  </query>
+    
+</querys>

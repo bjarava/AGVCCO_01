@@ -1,0 +1,16 @@
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Repositories.DatabaseManager\bin\Debug\netstandard2.0\AgvCco.Repositories.DatabaseManager.deps.json
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Repositories.DatabaseManager\bin\Debug\netstandard2.0\AgvCco.Repositories.DatabaseManager.dll
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Repositories.DatabaseManager\bin\Debug\netstandard2.0\AgvCco.Repositories.DatabaseManager.pdb
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Repositories.DatabaseManager\bin\Debug\netstandard2.0\AgvCco.Common.Models.dll
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Repositories.DatabaseManager\bin\Debug\netstandard2.0\AgvCco.Common.Reads.dll
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Repositories.DatabaseManager\bin\Debug\netstandard2.0\AgvCco.Common.Models.pdb
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Repositories.DatabaseManager\bin\Debug\netstandard2.0\AgvCco.Common.Reads.pdb
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Repositories.DatabaseManager\obj\Debug\netstandard2.0\AgvCco.Repositories.DatabaseManager.csprojAssemblyReference.cache
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Repositories.DatabaseManager\obj\Debug\netstandard2.0\AgvCco.Repositories.DatabaseManager.csproj.CoreCompileInputs.cache
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Repositories.DatabaseManager\obj\Debug\netstandard2.0\AgvCco.Repositories.DatabaseManager.AssemblyInfoInputs.cache
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Repositories.DatabaseManager\obj\Debug\netstandard2.0\AgvCco.Repositories.DatabaseManager.AssemblyInfo.cs
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Repositories.DatabaseManager\obj\Debug\netstandard2.0\AgvCco.Repositories.DatabaseManager.csproj.CopyComplete
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Repositories.DatabaseManager\obj\Debug\netstandard2.0\AgvCco.Repositories.DatabaseManager.dll
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Repositories.DatabaseManager\obj\Debug\netstandard2.0\AgvCco.Repositories.DatabaseManager.pdb
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Repositories.DatabaseManager\bin\Debug\netstandard2.0\AgvCco.Common.Writes.dll
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Repositories.DatabaseManager\bin\Debug\netstandard2.0\AgvCco.Common.Writes.pdb

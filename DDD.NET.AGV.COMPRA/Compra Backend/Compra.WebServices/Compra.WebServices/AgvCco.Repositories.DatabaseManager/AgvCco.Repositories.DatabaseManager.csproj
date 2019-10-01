@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AgvCco.Common.Models\AgvCco.Common.Models.csproj" />
+    <ProjectReference Include="..\AgvCco.Common.Reads\AgvCco.Common.Reads.csproj" />
+    <ProjectReference Include="..\AgvCco.Common.Writes\AgvCco.Common.Writes.csproj" />
+  </ItemGroup>
+
+</Project>

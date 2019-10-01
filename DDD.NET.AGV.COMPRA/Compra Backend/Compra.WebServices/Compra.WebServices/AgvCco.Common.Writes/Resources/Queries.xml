@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<querys>
+  <query id="INSERT_PRO_CAR" description="Adicionar al carrito" author="benja">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[INSERT INTO CCOCAR(carpro, carcan, carusu, carfeh, carest) VALUES(@as_carpro, @as_carcan, @as_carusu, @as_carfeh, @as_carest) ;]]>
+    </provider>
+  </query> 
+</querys>

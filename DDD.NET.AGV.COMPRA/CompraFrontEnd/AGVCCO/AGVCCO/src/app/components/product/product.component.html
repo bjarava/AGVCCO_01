@@ -1,0 +1,23 @@
+<div class="container">
+  <div class="row">
+    <div class="col-sm-6" *ngFor="let productos of product">
+        <div class="card-columns" style="width: 550px">
+            <div class="card" >
+              <a class="card-subtitle">Productos</a>   
+                <div class="card-body">
+                <h5 class="card-subtitle">{{ productos.Pronom }}</h5>
+                <p class="card-text font-weight-bold">Precio $: {{ productos.Propre }}</p>      
+                <p class="card-text">Cantidad: {{ productos.Procan }}</p>
+                <p class="card-text">Referencia:{{ productos.Proref }}</p>
+                <p class="card-text"><small class="text-muted">{{ productos.Profcr }}</small></p>
+                <br>
+                <button type="button" (click)="this.carServices.AddCar(productos)"  class="btn btn-outline-primary btn-block">Añadir al carrito</button> 
+              </div>
+            </div>
+          </div>
+    </div>
+  </div>
+</div>
+
+ 
+<!--<button (click)="GetAllPro()">Consultar productos</button>-->

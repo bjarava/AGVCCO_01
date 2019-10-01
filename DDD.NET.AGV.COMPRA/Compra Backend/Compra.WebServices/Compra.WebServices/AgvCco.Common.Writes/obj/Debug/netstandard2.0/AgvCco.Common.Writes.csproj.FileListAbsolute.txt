@@ -1,0 +1,14 @@
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Writes\bin\Debug\netstandard2.0\AgvCco.Common.Writes.deps.json
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Writes\bin\Debug\netstandard2.0\AgvCco.Common.Writes.dll
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Writes\bin\Debug\netstandard2.0\AgvCco.Common.Writes.pdb
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Writes\bin\Debug\netstandard2.0\AgvCco.Common.Models.dll
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Writes\bin\Debug\netstandard2.0\AgvCco.Common.Models.pdb
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Writes\obj\Debug\netstandard2.0\AgvCco.Common.Writes.csprojAssemblyReference.cache
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Writes\obj\Debug\netstandard2.0\AgvCco.Common.Writes.Resources.ReadResources.resources
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Writes\obj\Debug\netstandard2.0\AgvCco.Common.Writes.csproj.GenerateResource.cache
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Writes\obj\Debug\netstandard2.0\AgvCco.Common.Writes.csproj.CoreCompileInputs.cache
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Writes\obj\Debug\netstandard2.0\AgvCco.Common.Writes.AssemblyInfoInputs.cache
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Writes\obj\Debug\netstandard2.0\AgvCco.Common.Writes.AssemblyInfo.cs
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Writes\obj\Debug\netstandard2.0\AgvCco.Common.Writes.csproj.CopyComplete
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Writes\obj\Debug\netstandard2.0\AgvCco.Common.Writes.dll
+D:\DDD.NET.AGV.COMPRA\Compra Backend\Compra.WebServices\Compra.WebServices\AgvCco.Common.Writes\obj\Debug\netstandard2.0\AgvCco.Common.Writes.pdb
